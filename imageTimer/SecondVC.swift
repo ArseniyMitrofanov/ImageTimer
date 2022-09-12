@@ -1,13 +1,15 @@
 //
-//  SecondViewController.swift
+//  SecondVC.swift
 //  imageTimer
 //
-//  Created by Арсений on 10.09.22.
+//  Created by Арсений on 12.09.22.
 //
 
 import UIKit
 
-class SecondViewController: UIViewController {
+import UIKit
+
+class SecondVC: UIViewController {
 
     @IBOutlet weak var popug: UIImageView!
     override func viewDidLoad() {
