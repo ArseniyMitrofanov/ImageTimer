@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EAC4B5E228CC636100D8CE16 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC4B5E128CC636100D8CE16 /* SecondViewController.swift */; };
 		EAD265A228C8F9A50066F0D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD265A128C8F9A50066F0D0 /* AppDelegate.swift */; };
 		EAD265A428C8F9A50066F0D0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD265A328C8F9A50066F0D0 /* SceneDelegate.swift */; };
 		EAD265A628C8F9A50066F0D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD265A528C8F9A50066F0D0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EAC4B5E128CC636100D8CE16 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SecondViewController.swift; path = ../SecondViewController.swift; sourceTree = "<group>"; };
 		EAD2659E28C8F9A50066F0D0 /* imageTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = imageTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAD265A128C8F9A50066F0D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAD265A328C8F9A50066F0D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				EAD265A328C8F9A50066F0D0 /* SceneDelegate.swift */,
 				EAD265A528C8F9A50066F0D0 /* ViewController.swift */,
 				EAD265A728C8F9A50066F0D0 /* Main.storyboard */,
+				EAC4B5E128CC636100D8CE16 /* SecondViewController.swift */,
 				EAD265AA28C8F9A80066F0D0 /* Assets.xcassets */,
 				EAD265AC28C8F9A80066F0D0 /* LaunchScreen.storyboard */,
 				EAD265AF28C8F9A80066F0D0 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAC4B5E228CC636100D8CE16 /* SecondViewController.swift in Sources */,
 				EAD265A628C8F9A50066F0D0 /* ViewController.swift in Sources */,
 				EAD265A228C8F9A50066F0D0 /* AppDelegate.swift in Sources */,
 				EAD265A428C8F9A50066F0D0 /* SceneDelegate.swift in Sources */,
