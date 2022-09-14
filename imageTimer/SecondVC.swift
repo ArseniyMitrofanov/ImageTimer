@@ -15,15 +15,15 @@ class SecondVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         popug.frame.origin.y -= 500
-        popug.animationImages = ([UIImage(named: "Слой 1")!,
-                                              UIImage(named: "Слой 2")!,
-                                              UIImage(named: "Слой 3")!,
-                                              UIImage(named: "Слой 4")!,
-                                              UIImage(named: "Слой 5")!,
-                                              UIImage(named: "Слой 6")!,
-                                              UIImage(named: "Слой 7")!,
-                                              UIImage(named: "Слой 8")!,
-                                              UIImage(named: "Слой 9")!])
+        popug.animationImages = ([UIImage(named: "s1")!,
+                                              UIImage(named: "s2")!,
+                                              UIImage(named: "s3")!,
+                                              UIImage(named: "s4")!,
+                                              UIImage(named: "s5")!,
+                                              UIImage(named: "s6")!,
+                                              UIImage(named: "s7")!,
+                                              UIImage(named: "s8")!,
+                                              UIImage(named: "s9")!])
         popug.animationDuration = 1
         popug.animationRepeatCount = 0
         popug.startAnimating()
